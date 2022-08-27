@@ -1,6 +1,7 @@
 # UplifeTraining
 SOP for different procedures at uplife
-<p> SOP - Commissions <p> <a href = "/SOP - Commissions.drawio.html">Click Here!</a>
+[SOP - Commissions.drawio.html] (https://htmlpreview.github.io/?https://raw.github.com/samjbraganza/UplifeTraining/blob/main/SOP%20-%20Commissions.drawio.html)
+
   
   
   
